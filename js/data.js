@@ -184,7 +184,7 @@ const MENU_DATA = {
       "order": 14,
       "img": null,
       "bgImg": "https://menus.blob.core.windows.net/shared/66d751cc2dfd45c14807f7cf/88f862b1-1d75-455a-8ef6-26de424b4bd3.png",
-      "hide": false,
+      "hide": true,
       "note": "Breakfast items are only available from 9:30 AM to 1 PM"
     },
     {
@@ -195,7 +195,8 @@ const MENU_DATA = {
       "order": 15,
       "img": null,
       "bgImg": "https://menus.blob.core.windows.net/shared/66d751cc2dfd45c14807f7cf/febba202-c230-4f20-be9a-578012dc6576.jpg",
-      "hide": false
+      "hide": true,
+      "note": null
     },
     {
       "_id": "681cd0d153f3a42a2f5046bf",
@@ -205,7 +206,7 @@ const MENU_DATA = {
       "order": 18,
       "img": null,
       "bgImg": "",
-      "hide": false,
+      "hide": true,
       "note": "All sandwiches are served with fries and coleslaw"
     },
     {
@@ -216,7 +217,8 @@ const MENU_DATA = {
       "order": 16,
       "img": null,
       "bgImg": "",
-      "hide": false
+      "hide": true,
+      "note": null
     },
     {
       "_id": "681cd0d153f3a42a2f5046c1",
@@ -226,7 +228,7 @@ const MENU_DATA = {
       "order": 17,
       "img": null,
       "bgImg": "https://menus.blob.core.windows.net/shared/66d751cc2dfd45c14807f7cf/f44d83a1-86dd-4242-b594-14193bbabcbe.jpg",
-      "hide": false,
+      "hide": true,
       "note": "All burgers are served with fries and coleslaw"
     },
     {
@@ -237,7 +239,8 @@ const MENU_DATA = {
       "order": 19,
       "img": null,
       "bgImg": "https://menus.blob.core.windows.net/shared/66d751cc2dfd45c14807f7cf/44824f3e-44c4-48d8-90ae-a799bb7c78d3.png",
-      "hide": false
+      "hide": true,
+      "note": null
     },
     {
       "_id": "681cd0d153f3a42a2f5046c3",
@@ -257,7 +260,8 @@ const MENU_DATA = {
       "order": 6,
       "img": null,
       "bgImg": "",
-      "hide": false
+      "hide": true,
+      "note": null
     },
     {
       "_id": "681cd0d153f3a42a2f5046c5",
