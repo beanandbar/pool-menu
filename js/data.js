@@ -21,9 +21,6 @@ const MENU_DATA = {
     "quote": null,
     "aboutUs": null,
     "aboutUsTranslation": null,
-    "createdAt": "2025-05-08T15:46:37.338Z",
-    "updatedAt": "2025-05-08T16:24:51.931Z",
-    "__v": 0,
     "templateId": "beanandbar"
   },
   "categories": [
@@ -34,10 +31,7 @@ const MENU_DATA = {
       "order": 1,
       "img": null,
       "bgImg": null,
-      "hide": false,
-      "createdAt": "2025-04-14T12:21:12.569Z",
-      "updatedAt": "2025-05-08T16:24:52.210Z",
-      "__v": 0
+      "hide": false
     },
     {
       "_id": "681cd0d153f3a42a2f5046a9",
@@ -46,10 +40,7 @@ const MENU_DATA = {
       "order": 2,
       "img": null,
       "bgImg": null,
-      "hide": false,
-      "createdAt": "2025-04-14T12:21:12.848Z",
-      "updatedAt": "2025-05-08T16:24:52.210Z",
-      "__v": 0
+      "hide": false
     },
     {
       "_id": "681cd0d153f3a42a2f5046aa",
@@ -58,10 +49,7 @@ const MENU_DATA = {
       "order": 3,
       "img": null,
       "bgImg": null,
-      "hide": false,
-      "createdAt": "2025-04-14T13:09:04.111Z",
-      "updatedAt": "2025-05-08T16:24:52.210Z",
-      "__v": 0
+      "hide": false
     },
     {
       "_id": "681cd0d153f3a42a2f5046ab",
@@ -70,10 +58,7 @@ const MENU_DATA = {
       "order": 4,
       "img": null,
       "bgImg": null,
-      "hide": false,
-      "createdAt": "2025-04-14T13:11:43.266Z",
-      "updatedAt": "2025-05-08T16:24:52.210Z",
-      "__v": 0
+      "hide": false
     },
     {
       "_id": "681cd0d153f3a42a2f5046ac",
@@ -82,10 +67,7 @@ const MENU_DATA = {
       "order": 5,
       "img": null,
       "bgImg": null,
-      "hide": false,
-      "createdAt": "2025-04-14T13:28:54.070Z",
-      "updatedAt": "2025-05-08T16:24:52.210Z",
-      "__v": 0
+      "hide": false
     }
   ],
   "sub_categories": [
@@ -98,10 +80,7 @@ const MENU_DATA = {
       "img": null,
       "bgImg": "https://menus.blob.core.windows.net/shared/66d751cc2dfd45c14807f7cf/315cc3bd-3365-42ee-983d-eaeaf061b984.png",
       "hide": false,
-      "note": null,
-      "createdAt": "2024-12-19T19:49:02.319Z",
-      "updatedAt": "2025-05-08T16:24:52.487Z",
-      "__v": 0
+      "note": null
     },
     {
       "_id": "681cd0d153f3a42a2f5046b4",
@@ -111,10 +90,7 @@ const MENU_DATA = {
       "order": 13,
       "img": null,
       "bgImg": "https://menus.blob.core.windows.net/shared/66d751cc2dfd45c14807f7cf/0040470d-ae3b-4b0c-a2e8-6b430d9acd03.png",
-      "hide": false,
-      "createdAt": "2024-12-19T19:49:02.782Z",
-      "updatedAt": "2025-05-08T16:24:52.487Z",
-      "__v": 0
+      "hide": false
     },
     {
       "_id": "681cd0d153f3a42a2f5046b5",
@@ -125,10 +101,7 @@ const MENU_DATA = {
       "img": null,
       "bgImg": "https://menus.blob.core.windows.net/shared/66d751cc2dfd45c14807f7cf/8c539481-ae02-4310-9295-4d640fc3741a.png",
       "hide": false,
-      "note": null,
-      "createdAt": "2025-04-14T13:11:43.540Z",
-      "updatedAt": "2025-05-08T16:24:52.487Z",
-      "__v": 0
+      "note": null
     },
     {
       "_id": "681cd0d153f3a42a2f5046b6",
@@ -139,10 +112,7 @@ const MENU_DATA = {
       "img": null,
       "bgImg": "https://menus.blob.core.windows.net/shared/66d751cc2dfd45c14807f7cf/b000a3e3-4d7a-4f45-ba7b-9a789dccafb4.png",
       "hide": false,
-      "note": null,
-      "createdAt": "2025-04-14T13:11:43.814Z",
-      "updatedAt": "2025-05-08T16:24:52.487Z",
-      "__v": 0
+      "note": null
     },
     {
       "_id": "681cd0d153f3a42a2f5046b7",
@@ -152,10 +122,7 @@ const MENU_DATA = {
       "order": 8,
       "img": null,
       "bgImg": "",
-      "hide": false,
-      "createdAt": "2025-04-14T13:11:44.087Z",
-      "updatedAt": "2025-05-08T16:24:52.487Z",
-      "__v": 0
+      "hide": false
     },
     {
       "_id": "681cd0d153f3a42a2f5046b8",
@@ -165,10 +132,7 @@ const MENU_DATA = {
       "order": 12,
       "img": null,
       "bgImg": "",
-      "hide": false,
-      "createdAt": "2025-04-14T13:11:44.361Z",
-      "updatedAt": "2025-05-08T16:24:52.487Z",
-      "__v": 0
+      "hide": false
     },
     {
       "_id": "681cd0d153f3a42a2f5046b9",
@@ -179,10 +143,7 @@ const MENU_DATA = {
       "img": null,
       "bgImg": "https://menus.blob.core.windows.net/shared/66d751cc2dfd45c14807f7cf/4e8a5e1c-a11e-4069-960d-38a313c4cb99.png",
       "hide": false,
-      "note": null,
-      "createdAt": "2025-04-14T13:11:44.634Z",
-      "updatedAt": "2025-05-08T16:24:52.487Z",
-      "__v": 0
+      "note": null
     },
     {
       "_id": "681cd0d153f3a42a2f5046ba",
@@ -193,10 +154,7 @@ const MENU_DATA = {
       "img": null,
       "bgImg": "https://menus.blob.core.windows.net/shared/66d751cc2dfd45c14807f7cf/4c3471ef-cecc-47de-bc43-2921cd1c3d85.png",
       "hide": false,
-      "note": null,
-      "createdAt": "2025-04-14T13:14:32.549Z",
-      "updatedAt": "2025-05-08T16:24:52.487Z",
-      "__v": 0
+      "note": null
     },
     {
       "_id": "681cd0d153f3a42a2f5046bb",
@@ -206,10 +164,7 @@ const MENU_DATA = {
       "order": 10,
       "img": null,
       "bgImg": "",
-      "hide": false,
-      "createdAt": "2025-04-14T13:14:32.822Z",
-      "updatedAt": "2025-05-08T16:24:52.487Z",
-      "__v": 0
+      "hide": false
     },
     {
       "_id": "681cd0d153f3a42a2f5046bc",
@@ -219,10 +174,7 @@ const MENU_DATA = {
       "order": 9,
       "img": null,
       "bgImg": "",
-      "hide": false,
-      "createdAt": "2025-04-14T13:14:33.096Z",
-      "updatedAt": "2025-05-08T16:24:52.487Z",
-      "__v": 0
+      "hide": false
     },
     {
       "_id": "681cd0d153f3a42a2f5046bd",
@@ -233,10 +185,7 @@ const MENU_DATA = {
       "img": null,
       "bgImg": "https://menus.blob.core.windows.net/shared/66d751cc2dfd45c14807f7cf/88f862b1-1d75-455a-8ef6-26de424b4bd3.png",
       "hide": false,
-      "note": "Breakfast items are only available from 9:30 AM to 1 PM",
-      "createdAt": "2025-04-14T13:14:33.368Z",
-      "updatedAt": "2025-05-08T16:24:52.487Z",
-      "__v": 0
+      "note": "Breakfast items are only available from 9:30 AM to 1 PM"
     },
     {
       "_id": "681cd0d153f3a42a2f5046be",
@@ -246,10 +195,7 @@ const MENU_DATA = {
       "order": 15,
       "img": null,
       "bgImg": "https://menus.blob.core.windows.net/shared/66d751cc2dfd45c14807f7cf/febba202-c230-4f20-be9a-578012dc6576.jpg",
-      "hide": false,
-      "createdAt": "2025-04-14T13:14:33.641Z",
-      "updatedAt": "2025-05-08T16:24:52.487Z",
-      "__v": 0
+      "hide": false
     },
     {
       "_id": "681cd0d153f3a42a2f5046bf",
@@ -260,10 +206,7 @@ const MENU_DATA = {
       "img": null,
       "bgImg": "",
       "hide": false,
-      "note": "All sandwiches are served with fries and coleslaw",
-      "createdAt": "2025-04-14T13:14:33.914Z",
-      "updatedAt": "2025-05-08T16:24:52.487Z",
-      "__v": 0
+      "note": "All sandwiches are served with fries and coleslaw"
     },
     {
       "_id": "681cd0d153f3a42a2f5046c0",
@@ -273,10 +216,7 @@ const MENU_DATA = {
       "order": 16,
       "img": null,
       "bgImg": "",
-      "hide": false,
-      "createdAt": "2025-04-14T13:14:34.188Z",
-      "updatedAt": "2025-05-08T16:24:52.487Z",
-      "__v": 0
+      "hide": false
     },
     {
       "_id": "681cd0d153f3a42a2f5046c1",
@@ -287,10 +227,7 @@ const MENU_DATA = {
       "img": null,
       "bgImg": "https://menus.blob.core.windows.net/shared/66d751cc2dfd45c14807f7cf/f44d83a1-86dd-4242-b594-14193bbabcbe.jpg",
       "hide": false,
-      "note": "All burgers are served with fries and coleslaw",
-      "createdAt": "2025-04-14T13:14:34.461Z",
-      "updatedAt": "2025-05-08T16:24:52.487Z",
-      "__v": 0
+      "note": "All burgers are served with fries and coleslaw"
     },
     {
       "_id": "681cd0d153f3a42a2f5046c2",
@@ -300,10 +237,7 @@ const MENU_DATA = {
       "order": 19,
       "img": null,
       "bgImg": "https://menus.blob.core.windows.net/shared/66d751cc2dfd45c14807f7cf/44824f3e-44c4-48d8-90ae-a799bb7c78d3.png",
-      "hide": false,
-      "createdAt": "2025-04-14T13:14:34.733Z",
-      "updatedAt": "2025-05-08T16:24:52.487Z",
-      "__v": 0
+      "hide": false
     },
     {
       "_id": "681cd0d153f3a42a2f5046c3",
@@ -313,10 +247,7 @@ const MENU_DATA = {
       "order": 5,
       "img": null,
       "bgImg": "https://menus.blob.core.windows.net/shared/66d751cc2dfd45c14807f7cf/3423e603-3989-4d3c-a299-405da8f677b5.png",
-      "hide": false,
-      "createdAt": "2025-04-14T13:28:54.343Z",
-      "updatedAt": "2025-05-08T16:24:52.487Z",
-      "__v": 0
+      "hide": false
     },
     {
       "_id": "681cd0d153f3a42a2f5046c4",
@@ -326,10 +257,7 @@ const MENU_DATA = {
       "order": 6,
       "img": null,
       "bgImg": "",
-      "hide": false,
-      "createdAt": "2025-04-14T13:28:54.616Z",
-      "updatedAt": "2025-05-08T16:24:52.487Z",
-      "__v": 0
+      "hide": false
     },
     {
       "_id": "681cd0d153f3a42a2f5046c5",
@@ -339,10 +267,7 @@ const MENU_DATA = {
       "order": 1,
       "img": null,
       "bgImg": "",
-      "hide": false,
-      "createdAt": "2025-04-14T20:06:53.573Z",
-      "updatedAt": "2025-05-08T16:24:52.487Z",
-      "__v": 0
+      "hide": false
     }
   ],
   "items": [
@@ -361,10 +286,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:18:46.406Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f5046db",
@@ -381,10 +303,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:18:46.407Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f5046dc",
@@ -401,10 +320,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:18:46.407Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f5046dd",
@@ -421,10 +337,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:18:46.407Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f5046de",
@@ -441,10 +354,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:18:46.407Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f5046df",
@@ -461,10 +371,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:18:46.407Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f5046e0",
@@ -481,10 +388,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:18:46.407Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f5046e1",
@@ -501,10 +405,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:18:46.407Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f5046e2",
@@ -521,10 +422,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": true,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:18:46.407Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f5046e3",
@@ -541,10 +439,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": true,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:18:46.408Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f5046e4",
@@ -561,10 +456,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": true,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:18:46.408Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f5046e5",
@@ -581,10 +473,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:18:46.408Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f5046e6",
@@ -601,10 +490,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:18:46.408Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f5046e7",
@@ -621,10 +507,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:18:46.408Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f5046e8",
@@ -641,10 +524,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:18:46.408Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f5046e9",
@@ -661,10 +541,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:22:12.819Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f5046ea",
@@ -681,10 +558,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:22:12.819Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f5046eb",
@@ -701,10 +575,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:22:12.819Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f5046ec",
@@ -721,10 +592,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:22:12.819Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f5046ed",
@@ -741,10 +609,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:22:12.819Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f5046ee",
@@ -761,10 +626,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:22:12.819Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f5046ef",
@@ -781,10 +643,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:22:12.820Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f5046f0",
@@ -801,10 +660,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:22:12.820Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f5046f1",
@@ -821,10 +677,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:22:12.820Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f5046f2",
@@ -841,10 +694,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:22:12.820Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f5046f3",
@@ -861,10 +711,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:22:12.820Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f5046f4",
@@ -881,10 +728,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:24:13.897Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f5046f5",
@@ -901,10 +745,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:24:13.898Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f5046f6",
@@ -921,10 +762,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:24:13.898Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f5046f7",
@@ -941,10 +779,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:24:13.898Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f5046f8",
@@ -961,10 +796,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:24:13.898Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f5046f9",
@@ -981,10 +813,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:24:13.898Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f5046fa",
@@ -1001,10 +830,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:24:13.898Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f5046fb",
@@ -1021,10 +847,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:24:13.898Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f5046fc",
@@ -1041,10 +864,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:24:13.899Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f5046fd",
@@ -1061,10 +881,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:28:59.278Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f5046fe",
@@ -1081,10 +898,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:28:59.278Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f5046ff",
@@ -1101,10 +915,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:28:59.278Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504700",
@@ -1121,10 +932,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:28:59.278Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504701",
@@ -1141,10 +949,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:28:59.278Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504702",
@@ -1161,10 +966,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:28:59.278Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504703",
@@ -1181,10 +983,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:28:59.278Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504704",
@@ -1201,10 +1000,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:36:50.444Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504705",
@@ -1221,10 +1017,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:36:50.445Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504706",
@@ -1241,10 +1034,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:36:50.445Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504707",
@@ -1261,10 +1051,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:36:50.445Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504708",
@@ -1281,10 +1068,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:36:50.445Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504709",
@@ -1301,10 +1085,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:36:50.445Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f50470a",
@@ -1321,10 +1102,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:36:50.445Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f50470b",
@@ -1341,10 +1119,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:36:50.445Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f50470c",
@@ -1361,10 +1136,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:36:50.445Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f50470d",
@@ -1381,10 +1153,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:36:50.445Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f50470e",
@@ -1401,10 +1170,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:36:50.445Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f50470f",
@@ -1421,10 +1187,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:36:50.445Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504710",
@@ -1441,10 +1204,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:36:50.445Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504711",
@@ -1461,10 +1221,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:44:22.514Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504712",
@@ -1481,10 +1238,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:44:22.514Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504713",
@@ -1501,10 +1255,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:44:22.514Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504714",
@@ -1521,10 +1272,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:44:22.514Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504715",
@@ -1541,10 +1289,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:44:22.514Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504716",
@@ -1561,10 +1306,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:44:22.514Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504717",
@@ -1581,10 +1323,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:44:22.514Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504718",
@@ -1601,10 +1340,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:44:22.514Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504719",
@@ -1621,10 +1357,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:44:22.514Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f50471a",
@@ -1641,10 +1374,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:44:22.514Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f50471b",
@@ -1661,10 +1391,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:44:22.514Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f50471c",
@@ -1681,10 +1408,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:44:22.514Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f50471d",
@@ -1701,10 +1425,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:44:22.514Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f50471e",
@@ -1721,10 +1442,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:44:22.514Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f50471f",
@@ -1741,10 +1459,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:44:22.515Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504720",
@@ -1761,10 +1476,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:44:22.515Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504721",
@@ -1781,10 +1493,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:44:22.515Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504722",
@@ -1801,10 +1510,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:47:43.619Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504723",
@@ -1821,10 +1527,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:47:43.619Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504724",
@@ -1841,10 +1544,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:47:43.619Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504725",
@@ -1861,10 +1561,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:47:43.619Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504726",
@@ -1881,10 +1578,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:47:43.619Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504727",
@@ -1901,10 +1595,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:47:43.619Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504728",
@@ -1921,10 +1612,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:47:43.619Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504729",
@@ -1941,10 +1629,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:47:43.619Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f50472a",
@@ -1961,10 +1646,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:50:58.232Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f50472b",
@@ -1981,10 +1663,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:50:58.232Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f50472c",
@@ -2001,10 +1680,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:50:58.232Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f50472d",
@@ -2021,10 +1697,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:50:58.232Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f50472e",
@@ -2041,10 +1714,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:50:58.233Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f50472f",
@@ -2061,10 +1731,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:50:58.233Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504730",
@@ -2081,10 +1748,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:50:58.233Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504731",
@@ -2101,10 +1765,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:50:58.233Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504732",
@@ -2121,10 +1782,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:50:58.233Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504733",
@@ -2141,10 +1799,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:50:58.233Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504734",
@@ -2161,10 +1816,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:56:23.024Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504735",
@@ -2181,10 +1833,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:56:23.024Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504736",
@@ -2201,10 +1850,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:56:23.025Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504737",
@@ -2221,10 +1867,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:56:23.025Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504738",
@@ -2241,10 +1884,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:56:23.025Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504739",
@@ -2261,10 +1901,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:56:23.025Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f50473a",
@@ -2281,10 +1918,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:56:23.025Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f50473b",
@@ -2301,10 +1935,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": true,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:56:23.025Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f50473c",
@@ -2321,10 +1952,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:56:23.025Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f50473d",
@@ -2341,10 +1969,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:56:23.025Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f50473e",
@@ -2361,10 +1986,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:56:23.025Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f50473f",
@@ -2381,10 +2003,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:56:23.025Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504740",
@@ -2401,10 +2020,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:56:23.025Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504741",
@@ -2421,10 +2037,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:56:23.025Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504742",
@@ -2441,10 +2054,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:56:23.025Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504743",
@@ -2461,10 +2071,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:56:23.025Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504744",
@@ -2481,10 +2088,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:56:23.026Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504745",
@@ -2501,10 +2105,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": true,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:56:23.026Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504746",
@@ -2521,10 +2122,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:56:23.026Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504747",
@@ -2541,10 +2139,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T13:56:23.026Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504748",
@@ -2561,10 +2156,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T14:01:58.638Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504749",
@@ -2581,10 +2173,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T14:01:58.638Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f50474a",
@@ -2601,10 +2190,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T14:01:58.638Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f50474b",
@@ -2621,10 +2207,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T14:01:58.639Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f50474c",
@@ -2641,10 +2224,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T14:01:58.639Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f50474d",
@@ -2661,10 +2241,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T14:01:58.639Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f50474e",
@@ -2681,10 +2258,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T14:01:58.639Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f50474f",
@@ -2701,10 +2275,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T14:01:58.639Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504750",
@@ -2721,10 +2292,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T14:01:58.639Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504751",
@@ -2741,10 +2309,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T14:01:58.639Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504752",
@@ -2761,10 +2326,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T14:03:46.131Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504753",
@@ -2781,10 +2343,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T18:51:55.494Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504754",
@@ -2801,10 +2360,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T18:51:55.494Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504755",
@@ -2821,10 +2377,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T18:51:55.494Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504756",
@@ -2841,10 +2394,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T20:00:22.589Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504757",
@@ -2861,10 +2411,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T20:00:22.589Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504758",
@@ -2881,10 +2428,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T20:00:22.589Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504759",
@@ -2901,10 +2445,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T20:05:19.930Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f50475a",
@@ -2921,10 +2462,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T20:05:19.930Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f50475b",
@@ -2941,10 +2479,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T20:05:19.930Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f50475c",
@@ -2961,10 +2496,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T20:05:19.930Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f50475d",
@@ -2981,10 +2513,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T20:05:19.930Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f50475e",
@@ -3001,10 +2530,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T20:05:19.930Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f50475f",
@@ -3021,10 +2547,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T20:05:19.930Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504760",
@@ -3041,10 +2564,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": true,
-      "sizes": [],
-      "createdAt": "2025-04-14T20:06:58.640Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504761",
@@ -3061,10 +2581,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": true,
-      "sizes": [],
-      "createdAt": "2025-04-14T20:06:58.640Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504762",
@@ -3081,10 +2598,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T20:10:46.892Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504763",
@@ -3101,10 +2615,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T20:10:46.892Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504764",
@@ -3121,10 +2632,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T20:10:46.892Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504765",
@@ -3141,10 +2649,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T20:10:46.892Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504766",
@@ -3161,10 +2666,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T20:10:46.892Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504767",
@@ -3181,10 +2683,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T20:10:46.892Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504768",
@@ -3201,10 +2700,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T20:10:46.892Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504769",
@@ -3221,10 +2717,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T20:10:46.892Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f50476a",
@@ -3241,10 +2734,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T20:14:38.936Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f50476b",
@@ -3261,10 +2751,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T20:14:38.936Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f50476c",
@@ -3281,10 +2768,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T20:14:38.936Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f50476d",
@@ -3301,10 +2785,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T20:14:38.936Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f50476e",
@@ -3321,10 +2802,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T20:14:38.936Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f50476f",
@@ -3341,10 +2819,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T20:14:38.936Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504770",
@@ -3361,10 +2836,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T20:14:38.936Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504771",
@@ -3381,10 +2853,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T20:14:38.936Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504772",
@@ -3401,10 +2870,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T20:37:14.905Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504773",
@@ -3421,10 +2887,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T20:37:14.905Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     },
     {
       "_id": "681cd0d153f3a42a2f504774",
@@ -3441,10 +2904,7 @@ const MENU_DATA = {
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": [],
-      "createdAt": "2025-04-14T20:37:14.905Z",
-      "updatedAt": "2025-05-08T16:24:52.782Z",
-      "__v": 0
+      "sizes": []
     }
   ]
 };
