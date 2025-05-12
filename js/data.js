@@ -944,7 +944,7 @@ const MENU_DATA = {
       "description": null,
       "unit": null,
       "order": 7,
-      "price": 35,
+      "price": 40,
       "img": null,
       "bgImg": null,
       "hide": false,
